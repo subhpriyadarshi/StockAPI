@@ -1,0 +1,10 @@
+D:\WorkBackend\StockAPI\bin\Debug\netcoreapp2.0\StockAPI.deps.json
+D:\WorkBackend\StockAPI\bin\Debug\netcoreapp2.0\StockAPI.runtimeconfig.json
+D:\WorkBackend\StockAPI\bin\Debug\netcoreapp2.0\StockAPI.runtimeconfig.dev.json
+D:\WorkBackend\StockAPI\bin\Debug\netcoreapp2.0\StockAPI.dll
+D:\WorkBackend\StockAPI\bin\Debug\netcoreapp2.0\StockAPI.pdb
+D:\WorkBackend\StockAPI\obj\Debug\netcoreapp2.0\StockAPI.csproj.CoreCompileInputs.cache
+D:\WorkBackend\StockAPI\obj\Debug\netcoreapp2.0\StockAPI.AssemblyInfoInputs.cache
+D:\WorkBackend\StockAPI\obj\Debug\netcoreapp2.0\StockAPI.AssemblyInfo.cs
+D:\WorkBackend\StockAPI\obj\Debug\netcoreapp2.0\StockAPI.dll
+D:\WorkBackend\StockAPI\obj\Debug\netcoreapp2.0\StockAPI.pdb
